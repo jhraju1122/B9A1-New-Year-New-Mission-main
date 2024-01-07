@@ -1,0 +1,38 @@
+/*........................... header section ......................... */
+header{
+background-image: url(./resources/Banner\ Image.png);
+background-repeat: no-repeat;
+ background-position-x: center;
+ margin: 50px 140px;
+
+}
+
+/* .......................banner section .............................. */
+.banner{
+    padding: 280px 480px;
+    font-family: 'Merriweather', serif;
+    color: #fff;
+    text-align: center;
+}
+.banner-uper-title{
+font-size: 32px;
+font-weight: 400;
+}
+.banner-main-title{
+font-size: 72px;
+font-weight: 900;
+}
+
+/* ............................discount section .......................... */
+.discount-section{
+text-align: center;
+}
+.discount-main-title{
+
+}
+.discount-lowar-title{
+
+}
+.discount-catagories{
+
+}
