@@ -4,12 +4,13 @@ background-image: url(./resources/Banner\ Image.png);
 background-repeat: no-repeat;
  background-position-x: center;
  margin: 50px 140px;
+ 
 
 }
 
 /* .......................banner section .............................. */
 .banner{
-    padding: 280px 480px;
+    padding: 280px 20px 50px 50px;
     font-family: 'Merriweather', serif;
     color: #fff;
     text-align: center;
@@ -26,13 +27,24 @@ font-weight: 900;
 /* ............................discount section .......................... */
 .discount-section{
 text-align: center;
+ margin-top: 0;
+ color: red;
+  position: relative;
+  padding: 20px 400px;
+ 
 }
 .discount-main-title{
-
+font-size: 88px;
+margin-bottom: 40px;
 }
 .discount-lowar-title{
-
+font-size: 24px;
+font-weight: 500;
+font-family: 'Inter', sans-serif;
 }
 .discount-catagories{
-
+font-size: 48px;
+color: black;
+font-weight: 700;
+margin-bottom: 48px;
 }
