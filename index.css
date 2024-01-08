@@ -3,21 +3,25 @@ header{
 background-image: url(./resources/Banner\ Image.png);
 background-repeat: no-repeat;
  background-position-x: center;
- margin: 50px 140px;
+ /* margin: 50px 140px; */
+ margin: 120px 120px;
  
 
 }
 
 /* .......................banner section .............................. */
 .banner{
-    padding: 280px 20px 50px 50px;
+    padding: 280px 20px 50px 50px; 
+   
     font-family: 'Merriweather', serif;
     color: #fff;
     text-align: center;
+    
 }
 .banner-uper-title{
 font-size: 32px;
 font-weight: 400;
+ 
 }
 .banner-main-title{
 font-size: 72px;
@@ -47,4 +51,57 @@ font-size: 48px;
 color: black;
 font-weight: 700;
 margin-bottom: 48px;
+}
+
+/* <!-- ...................MId-night-party section ............... --> */
+.mid-night-party{
+background-image: url(./resources/Vectorrr.png);
+padding: 200px 400px;
+background-repeat: no-repeat;
+height: 400px;
+margin: 120px 120px;
+  margin-inline-start: 15%;
+  display: flex;
+   
+  
+}
+ .mid-night-party-all-text{
+  
+ }
+.mid-night-party-title{
+font-size: 64px;
+font-weight: 900;
+color: #FFFFFF;
+margin-left: 0%;
+}
+.mid-night-party-description{
+color: #FFFFFFCC;
+size: 18px;
+font-weight: 400;
+}
+
+.date-2024{
+
+}
+
+/* ..............party-place-date-time ................. */
+.party-date-place-time{
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  padding: 100px 350px 200px 350px;
+  margin: 120px 120px;
+  border-radius: 10px;
+  text-align: center;
+  background-image: linear-gradient(#e8dbdb, #f2b2b200);
+}
+.party-place-date-time-color{
+  color: #FF0000;
+}
+.join-now-button{
+  color: #fff;
+  background-color: #FF0000;
+  padding: 16px 32px;
+  font-size: 20px;
+  font-weight: 700;
 }
