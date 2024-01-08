@@ -8,7 +8,9 @@ background-repeat: no-repeat;
  
 
 }
-
+.primary-color{
+   color: #FF0000;
+}
 /* .......................banner section .............................. */
 .banner{
     padding: 280px 20px 50px 50px; 
@@ -152,4 +154,79 @@ color: #070211;
   font-size: 20px;
   font-weight: 400;
   color: #07021199;
+}
+
+/* <!--............. holiday sale section ................. --> */
+.holiday-container{
+background-color: #dcc8c8;
+margin: 120px 140px ;
+
+height: 800px;
+ 
+
+
+}
+.holiday-texual-container{
+  text-align: center;
+  
+.holiday-upper-caption{
+  
+  color: #070211;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Inter', sans-serif;
+ 
+}
+.holiday-main-caption{
+font-size: 72px;
+font-weight: 700;
+
+}
+.holiday-paragraph{
+  padding: 30px 450px;
+  font-size: 20px;
+  font-weight: 500;
+  color: #07021199;
+  margin-bottom: 400px;
+}
+
+/*.............. holiday-photo-container .............. */
+.holiday-photo-container{
+  text-align: center;
+  background-image: url(./resources/Rectangle\ 2.png);
+  height: 220px;
+ 
+ 
+}
+.holiday-photo-ractangle{
+ 
+ 
+}
+.photo-ractangle{
+  width: 100%;
+ 
+ 
+}
+.holiday-photo-ractangle-group{
+  align-items: center;
+  margin-top: 64px;
+  
+ 
+}
+ 
+.holiday-congretulation-box{
+/* margin-bottom: -400px; */
+margin-top: -400px;
+margin-bottom: 400px;
+ 
+}
+.holiday-discount-photo{
+  margin-top: -400px;
+  margin-bottom: 500px;
+  margin-left: -100px;
+}
+}
+.holiday-girl-photo{
+  margin-top: -400px;
+  margin-bottom: 450px;
 }
