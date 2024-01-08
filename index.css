@@ -4,7 +4,7 @@ background-image: url(./resources/Banner\ Image.png);
 background-repeat: no-repeat;
  background-position-x: center;
  /* margin: 50px 140px; */
- margin: 120px 120px;
+ margin: 120px 140px;
  
 
 }
@@ -59,9 +59,10 @@ background-image: url(./resources/Vectorrr.png);
 padding: 200px 400px;
 background-repeat: no-repeat;
 height: 400px;
-margin: 120px 120px;
+margin: 120px 140px;
   margin-inline-start: 15%;
   display: flex;
+ 
    
   
 }
@@ -80,9 +81,7 @@ size: 18px;
 font-weight: 400;
 }
 
-.date-2024{
-
-}
+ 
 
 /* ..............party-place-date-time ................. */
 .party-date-place-time{
@@ -90,7 +89,7 @@ font-weight: 400;
   font-size: 32px;
   font-weight: 600;
   padding: 100px 350px 200px 350px;
-  margin: 120px 120px;
+  margin: 120px 140px;
   border-radius: 10px;
   text-align: center;
   background-image: linear-gradient(#e8dbdb, #f2b2b200);
@@ -104,4 +103,53 @@ font-weight: 400;
   padding: 16px 32px;
   font-size: 20px;
   font-weight: 700;
+}
+
+/*..................... Comming soon section ..................... */
+.comming-soon-section{
+display: flex;
+ 
+justify-content: space-between;
+font-weight: 600;
+padding: 100px 100px 200px 350px;
+margin: 120px 140px ;
+border-radius: 10px;
+text-align: center;
+background-image: linear-gradient(#e8dbdb, #f2b2b200);
+}
+.conning-soon-caption{
+ 
+
+}
+.comming-soon-title-caption{
+color: #FF0000;
+font-size: 24px;
+font-weight: 500;
+ 
+}
+.comming-soon-title{
+font-size: 48px;
+font-weight: 900;
+color: #070211;
+}
+.comming-soon-description{
+  height: 100px;
+  width: 300px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #07021199;
+}
+.comming-soon-photo{
+  text-align: center;
+   height: 364px;
+   width: 346px;
+}
+.title-2024{
+  font-size: 48px;
+  font-weight: 700;
+}
+.title-2024-description{
+  font-size: 20px;
+  font-weight: 400;
+  color: #07021199;
 }
