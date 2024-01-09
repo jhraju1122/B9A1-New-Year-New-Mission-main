@@ -232,8 +232,41 @@ margin-bottom: 400px;
   margin-left: 100px;
 }
 
-
+/*................ portfolio-section .................. */
+.portfolio-section{
+  margin: 120px 140px ;
+ padding-top: 120px;
  
+  color: #FFFFFF;
+}
+ .portfolio-texual-section-title{
+
+ }
+
+ .portfolio-upper-section-title{
+font-size: 24px;
+font-weight: 500;
+font-family: 'Inter', sans-serif;
+color: #FF0000;
+ 
+ }
+ .portfolio-main-section-title{
+font-size: 48px;
+font-weight: 900;
+color: #070211;
+ }
+ .portfolio-description{
+font-size: 20px;
+font-weight: 400;
+color: #07021199;
+height: 64px;
+width: 896px;
+ }
   
+.portfolio-photo-section{
 
- 
+  
+}
+ .portfolio-all-photo{
+  margin: 10px 10px;
+ }
