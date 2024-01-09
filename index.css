@@ -20,9 +20,13 @@ background-repeat: no-repeat;
    padding: 16px 32px;
    font-size: 20px;
    font-weight: 700;
+   border: 0;
 }
 input{
    padding: 25px 150px;
+   background-color: #fff;
+   border-radius: 10px ;
+   border: 0;
 }
 /* .......................banner section .............................. */
 .banner-title{
@@ -58,7 +62,7 @@ text-align: center;
 }
 .discount-main-title{
 font-size: 88px;
-margin-bottom: 40px;
+margin-bottom: 60px;
 }
 .discount-lowar-title{
 font-size: 24px;
@@ -70,6 +74,7 @@ font-size: 48px;
 color: black;
 font-weight: 700;
 margin-bottom: 48px;
+margin-top: -15px;
 }
 
 /* <!-- ...................MId-night-party section ............... --> */
@@ -366,3 +371,4 @@ footer{
  .footer-copyright-resurved{
 
  }
+  
