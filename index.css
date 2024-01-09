@@ -82,6 +82,9 @@ height: 600px;
 margin: 120px 140px;
   margin-inline-start: 15%;
  display: flex;
+ align-items: center;
+ gap: ;
+ justify-content: space-around;
  
 }
 .date-2024{
@@ -137,7 +140,7 @@ padding: 100px 100px 200px 50px;
 margin: 120px 140px ;
 border-radius: 10px;
 text-align: center;
-background-image: linear-gradient(#e8dbdb, #f2b2b200);
+background-image: linear-gradient(#fff5f5, #f2b2b200);
 }
 .conning-soon-caption{
  
@@ -178,7 +181,7 @@ color: #070211;
 
 /* <!--............. holiday sale section ................. --> */
 .holiday-container{
-background-color: #dcc8c8;
+background-color: #ffffff;
 margin: 120px 140px ;
 
 height: 800px;
