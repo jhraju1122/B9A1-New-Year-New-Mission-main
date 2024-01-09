@@ -1,12 +1,13 @@
 /*........................... header section ......................... */
  
 header{
-background-image: url(./resources/Banner\ Image.png);
-opacity: 0.7;
+background-image:url(./resources/Banner\ Image.png);
+background-color: rgba(0,0,0,0.5)  ;
+ background-blend-mode: darken;
 background-repeat: no-repeat;
  background-position-x: center;
- /* margin: 50px 140px; */
- margin: 120px 140px;
+ 
+ margin: 100px  250px;
  padding-bottom: ;
  
 
